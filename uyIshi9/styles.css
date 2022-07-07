@@ -1,0 +1,39 @@
+/* {
+  box-sizing: border-box;
+}*/
+
+.wrapper {
+  max-width: 1000px;
+  width: 500px;
+  height: 600px;
+  border: 2px solid black;
+  ;
+}
+
+
+h1 {
+  background-color: aqua;
+  width: 400px;
+}
+.par {
+  width: 200px;
+  height: 70px;
+  border: 1px solid gray;
+  padding: 1rem ;
+  background-color: aquamarine;
+}
+
+.par2 {
+  width: 200px;
+  height: 70px;
+  border: 1px solid gray;
+  padding-right: 1px ;
+  background-color: rgba(11, 136, 94, 0.64);
+  margin-left: auto;
+}
+
+div par ::before {
+ content:  "10:53";
+}
+
+<input placeholder="text">

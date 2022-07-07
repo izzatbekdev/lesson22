@@ -1,0 +1,42 @@
+h1 {
+  color:blueviolet;
+  text-align:center;
+  background-color:rgb(251, 255, 127);
+  text-transform: uppercase;
+  font-style:oblique;
+  border: solid;
+ 
+}
+h2 { font-size: 45px;
+  color: black;
+  text-align:center;
+  border:dashed;
+  background-color: silver;
+}
+
+ol { border: double;
+    font-style: italic;
+  font-size: 40px;
+  background-color: rgb(0, 255, 157);
+  color: chocolate;
+  font-weight: bold;
+}
+#link {border: dotted;
+   text-decoration: none;
+color:darkgreen;
+font-size: 50px;
+}
+
+.erta { font-weight:lighter;
+  color:blue;
+}
+
+#chiz {
+  color: black;
+  text-decoration: underline;
+}
+.insta {border: dotted;
+  text-align:center;
+  color:rgb(43, 0, 100);
+  font-size: 50px;
+}
